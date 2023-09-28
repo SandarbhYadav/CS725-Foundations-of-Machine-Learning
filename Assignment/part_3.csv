@@ -1,0 +1,10 @@
+Name,Value
+Number_of_hidden_layers,2.0
+Number_of_neurons_in_hidden_layer,78.0
+Batch_size,273.0
+Learning_rate,0.001
+Adam_parameter_beta,0.9
+Adam_parameter_gamma,0.81
+Regularization_parameter_lambda,188.0
+Maximum_epochs,108.0
+Number_of_principal_components,78.0
